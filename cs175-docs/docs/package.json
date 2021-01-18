@@ -1,0 +1,19 @@
+{
+  "name": "cs175-vuepress",
+  "version": "0.0.1",
+  "description": "CS175 Documentation Website",
+  "main": "index.js",
+  "authors": {
+    "name": "Derek",
+    "email": ""
+  },
+  "repository": "https://github.com/derek-ye/CS175-Documentation.git/cs175-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
